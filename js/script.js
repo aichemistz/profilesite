@@ -22,7 +22,7 @@ $(document).ready(function () {
 
     // 内容打字效果
     var t = new Typed(".slides-sub", {
-        strings: ["CS Student at UPenn", "Software Engineer"],
+        strings: ["Software Engineer", "Full-Stack", "Cloud Engineering"],
         typeSpeed: 70,
         loop: true,
         startDelay: 1000,
